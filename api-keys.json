@@ -1,0 +1,14 @@
+{
+    "NekoSync": {
+        "name": "Main Production Key",
+        "createdAt": "2023-01-01T00:00:00Z",
+        "expiresAt": "2023-12-31T00:00:00Z",
+        "permissions": ["all"]
+    },
+    "SecretOne": {
+        "name": "Temporary Key",
+        "createdAt": "2023-06-01T00:00:00Z",
+        "expiresAt": "2023-07-01T00:00:00Z",
+        "permissions": ["read"]
+    }
+}
