@@ -1,0 +1,66 @@
+{
+  "users": {
+    "1168701411": {
+      "id": 1168701411,
+      "coins": 10,
+      "limits": 0,
+      "premium": false,
+      "premiumExpiry": null,
+      "dailyClaimed": false,
+      "lastDaily": null,
+      "joinDate": "2026-02-07T10:37:49.350Z",
+      "transactions": [],
+      "gameStats": {
+        "wins": 0,
+        "losses": 0,
+        "totalWon": 0,
+        "totalLost": 0
+      },
+      "giveawayJoined": [],
+      "lastActive": "2026-02-07T10:43:10.691Z"
+    }
+  },
+  "premium": [],
+  "shop": [
+    {
+      "id": 1,
+      "name": "⚡ 5 Limits",
+      "type": "limit",
+      "amount": 5,
+      "price": 100,
+      "description": "Tambah 5 limit untuk ban/unban WhatsApp",
+      "stock": -1,
+      "createdBy": "system",
+      "createdAt": "2026-02-07T10:35:22.093Z"
+    },
+    {
+      "id": 2,
+      "name": "👑 Premium 7 Hari",
+      "type": "premium",
+      "days": 7,
+      "price": 5000,
+      "description": "Akses premium selama 7 hari",
+      "stock": -1,
+      "createdBy": "system",
+      "createdAt": "2026-02-07T10:35:22.093Z"
+    },
+    {
+      "id": 3,
+      "name": "👑 Premium 7 Hari",
+      "type": "premium",
+      "days": 30,
+      "price": 10000,
+      "description": "Akses premium selama 30 hari",
+      "stock": -1,
+      "createdBy": "system",
+      "createdAt": "2026-02-07T10:35:22.093Z"
+    }
+  ],
+  "giveaways": [],
+  "transactions": [],
+  "settings": {
+    "lastBackup": null,
+    "backupCount": 0,
+    "lastBackupId": null
+  }
+}
