@@ -1,4 +1,16 @@
 {
   "violations": {},
-  "spamLog": {}
+  "spamLog": {
+    "-1003833553744:8461820787": "[1773888296897,1773888296902,1773888296905,1773888296915]"
+  },
+  "groupData": {
+    "-1003833553744": {
+      "bannedWords": [],
+      "antiLink": {
+        "enabled": false,
+        "action": "delete",
+        "muteDuration": 60
+      }
+    }
+  }
 }
