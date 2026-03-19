@@ -7,9 +7,7 @@
   },
   "groupData": {
     "-1003833553744": {
-      "bannedWords": [
-        "suki"
-      ],
+      "bannedWords": [],
       "antiLink": {
         "enabled": false,
         "action": "delete",
