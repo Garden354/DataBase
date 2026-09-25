@@ -1,0 +1,30 @@
+[
+  {
+    "id": "default",
+    "emoji": "🤖",
+    "name": "Default",
+    "desc": "Asisten AI serbaguna, netral dan informatif.",
+    "prompt_file": "default.txt"
+  },
+  {
+    "id": "TakanashiRikka",
+    "emoji": "👁️",
+    "name": "Takanashi Rikka",
+    "desc": "Waifu chuunibyou yang manja dan menggemaskan.",
+    "prompt_file": "rikka.txt"
+  },
+  {
+    "id": "YaeMiko",
+    "emoji": "🦊",
+    "name": "Yae Miko",
+    "desc": "Kitsune Guuji yang genit dan menggoda.",
+    "prompt_file": "yae.txt"
+  },
+  {
+    "id": "custom",
+    "emoji": "✏️",
+    "name": "Kustom",
+    "desc": "Tulis system prompt sendiri sesuai keinginanmu.",
+    "prompt_file": null
+  }
+]
